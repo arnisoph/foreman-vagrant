@@ -1,0 +1,27 @@
+[submodule "vagrant"]
+	path = vagrant
+	url = https://github.com/bechtoldt/iac-vagrant.git
+[submodule "saltstack-assets/saltstack-users-formula"]
+	path = saltstack-assets/saltstack-users-formula
+	url = https://github.com/bechtoldt/saltstack-users-formula.git
+[submodule "saltstack-assets/saltstack-foreman-formula"]
+	path = saltstack-assets/saltstack-foreman-formula
+	url = https://github.com/bechtoldt/saltstack-foreman-formula.git
+[submodule "saltstack-assets/saltstack-tools-formula"]
+	path = saltstack-assets/saltstack-tools-formula
+	url = https://github.com/bechtoldt/saltstack-tools-formula.git
+[submodule "saltstack-assets/saltstack-time-formula"]
+	path = saltstack-assets/saltstack-time-formula
+	url = https://github.com/bechtoldt/saltstack-time-formula.git
+[submodule "saltstack-assets/saltstack-salt-formula"]
+	path = saltstack-assets/saltstack-salt-formula
+	url = https://github.com/bechtoldt/saltstack-salt-formula.git
+[submodule "saltstack-assets/saltstack-repos-formula"]
+	path = saltstack-assets/saltstack-repos-formula
+	url = https://github.com/bechtoldt/saltstack-repos-formula.git
+[submodule "saltstack-assets/saltstack-git-formula"]
+	path = saltstack-assets/saltstack-git-formula
+	url = https://github.com/bechtoldt/saltstack-git-formula.git
+[submodule "saltstack-assets/salt-modules"]
+	path = saltstack-assets/salt-modules
+	url = https://github.com/bechtoldt/salt-modules.git
