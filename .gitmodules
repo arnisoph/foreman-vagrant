@@ -25,3 +25,6 @@
 [submodule "saltstack-assets/salt-modules"]
 	path = saltstack-assets/salt-modules
 	url = https://github.com/bechtoldt/salt-modules.git
+[submodule "saltstack-assets/saltstack-postgresql-formula"]
+	path = saltstack-assets/saltstack-postgresql-formula
+	url = https://github.com/bechtoldt/saltstack-postgresql-formula.git

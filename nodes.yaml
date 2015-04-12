@@ -36,5 +36,7 @@ nodes:
             base_dir: ../saltstack-assets/saltstack-salt-formula
           - name: users
             base_dir: ../saltstack-assets/saltstack-users-formula
+          - name: postgresql
+            base_dir: ../saltstack-assets/saltstack-postgresql-formula
       - name: saltstack_config
       - name: saltstack_services
