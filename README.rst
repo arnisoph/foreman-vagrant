@@ -37,10 +37,6 @@ Additional resources
 Please see https://github.com/bechtoldt/vagrant-devenv for some more bits of information about the vagrant VM. You can use it to build the Vagrant box mention above (``DEV_Debian_78_salt_arbe_git-virtualbox-CURRENT.box``), too.
 
 
-.. image:: https://asciinema.org/a/TODO.png
-    :target: https://asciinema.org/a/TODO
-
-
 TODO
 ----
 
