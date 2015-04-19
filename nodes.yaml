@@ -26,6 +26,8 @@ nodes:
             base_dir: ../saltstack-assets/saltstack-foreman-formula
           - name: repos
             base_dir: ../saltstack-assets/saltstack-repos-formula
+          - name: crypto
+            base_dir: ../saltstack-assets/saltstack-crypto-formula
           - name: time
             base_dir: ../saltstack-assets/saltstack-time-formula
           - name: git
@@ -38,5 +40,11 @@ nodes:
             base_dir: ../saltstack-assets/saltstack-users-formula
           - name: postgresql
             base_dir: ../saltstack-assets/saltstack-postgresql-formula
+          - name: httpd
+            base_dir: ../saltstack-assets/saltstack-httpd-formula
+          - name: iscdhcp
+            base_dir: ../saltstack-assets/saltstack-iscdhcp-formula
+          - name: binddns
+            base_dir: ../saltstack-assets/saltstack-binddns-formula
       - name: saltstack_config
       - name: saltstack_services

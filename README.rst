@@ -30,6 +30,11 @@ You need:
 Workflows
 ---------
 
+* salt-call state.sls tools,repos,crypto,users,postgresql.client,postgresql.server,foreman.proxy,foreman.webfrontend,httpd test=False
+* set ssl paths /etc/ssl/certs/master1.foreman.local.arnoldbechtoldt.com.crt.pem
+* visudo
+* chmod 666 /etc/salt/autosign.conf
+* add smart proxy (https://master1.foreman.local.arnoldbechtoldt.com:8443)
 
 Additional resources
 --------------------

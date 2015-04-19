@@ -28,3 +28,15 @@
 [submodule "saltstack-assets/saltstack-postgresql-formula"]
 	path = saltstack-assets/saltstack-postgresql-formula
 	url = https://github.com/bechtoldt/saltstack-postgresql-formula.git
+[submodule "saltstack-assets/saltstack-crypto-formula"]
+	path = saltstack-assets/saltstack-crypto-formula
+	url = https://github.com/bechtoldt/saltstack-crypto-formula.git
+[submodule "saltstack-assets/saltstack-iscdhcp-formula"]
+	path = saltstack-assets/saltstack-iscdhcp-formula
+	url = https://github.com/bechtoldt/saltstack-iscdhcp-formula.git
+[submodule "saltstack-assets/saltstack-binddns-formula"]
+	path = saltstack-assets/saltstack-binddns-formula
+	url = https://github.com/bechtoldt/saltstack-binddns-formula.git
+[submodule "saltstack-assets/saltstack-httpd-formula"]
+	path = saltstack-assets/saltstack-httpd-formula
+	url = https://github.com/bechtoldt/saltstack-httpd-formula.git

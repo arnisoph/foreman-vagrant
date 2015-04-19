@@ -1,4 +1,8 @@
 base:
   '*':
     - common
-    - foreman.minimal
+    - foreman.crypto
+    - foreman.common
+    - foreman.webfrontend
+    - foreman.proxy
+    - postgresql
